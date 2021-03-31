@@ -1,2 +1,2 @@
 # Projetos Web
- Projetos realizados durante o curso "Desenvolvimento Web Completo 2021"
+ Projetos realizados por Eduardo Di Nizo durante o curso "Desenvolvimento Web Completo 2021"
