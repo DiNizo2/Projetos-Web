@@ -5,7 +5,7 @@
  
 ***
 
-### **Conteúdos :**
+### **Conteúdos:**
 AULAS | PROJETOS | 
 :---: | ---: | 
 HTML5 | Unes Universidade 
@@ -31,28 +31,28 @@ Criando aplicações Mobile com IONIC | Gasolina ou Álcool
 
 ***
 
-### **HTML 5 - Projeto UNES Universidade :**
+### **HTML 5 - Projeto UNES Universidade:**
 
 Página institucional de uma universidade fictícia contruida a partir de HTML5 puro utilizando tabelas para a formatação.
 
 Tecnologias utilizadas: HTML 5
 
-**Veja no repositório :** [código](//github.com/DiNizo/Projetos-Web/tree/main/Unes)
+**Veja no repositório:** [código](//github.com/DiNizo/Projetos-Web/tree/main/Unes)
 
-**Resultado final :** [site]( https://dinizo2.github.io/Unes/)
+**Resultado final:** [site]( https://dinizo2.github.io/Unes/)
 
 ***
 
-### **CSS3 - Projeto Anna Bella :**
+### **CSS3 - Projeto Anna Bella:**
 
 
 Página web pessoal da ma modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato. Para construir este site, foram utilizados Html5 e CSS3.
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-**Veja no repositório :** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Anna%20Bella)
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Anna%20Bella)
 
-**Resultado final :** [site](https://dinizo2.github.io/Anna/index.html)
+**Resultado final:** [site](https://dinizo2.github.io/Anna/index.html)
 
 
 
