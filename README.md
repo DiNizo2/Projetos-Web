@@ -5,13 +5,33 @@
  
 ***
 
-### **Progresso:**
+### **Conteúdo :**
+AULAS | PROJETOS | 
+:---: | ---: | 
+HTML5 | Unes Universidade 
+CSS3 | Anna Bella; TecBlog 
+CSS3 Intermediário & avançado | Notícias da Cidade; Chalé Hotel
+HTML5 e CSS3 - Recursos especiais | Museu Nacional
+Bootstrap 4 & Design responsivo | Finans; Spotify Clone
+JavaScript | App Calculadora; App Game Mata Mosquito
+JavaScript Moderno e Orientação a Objetos | App Orçamento Pessoal
+PHP 7 | App Help Desk
+PHP 7 e Orientação a Objetos | App Send Mail
+Banco de dados MySQL | Banco de Dados Loja Virtual
+Ajax | App Pesquisa Endereço
+PHP com PDO | App Lista de Tarefas
+Publicação de aplicações Web na Internet | Publicação de aplicações web utilizando o InfintyFree
+JQuery | JQuery
+Padrão de arquitetura MVC com PHP | miniframework
+PHP 7 & MySQL | Projeto Twitter Clone
+API com Slim Framework | API de Produtos
+Introdução ao WordPress | Projeto 10 minutos exercícios
+SASS | ----
+Criando aplicações Mobile com IONIC | Gasolina ou Álcool
 
-- [x] **HTML5 :**
-- [x] Projeto UNES (Página institucional de uma universidade)
-- [ ] **CSS3 :**
-- [x] Projeto Anna Bella (Página web pessoal)
-- [ ] Projeto TecBlog (Blog de tecnologia)
+
+
+
 
 
 
