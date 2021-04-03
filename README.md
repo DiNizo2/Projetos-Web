@@ -33,7 +33,7 @@ Criando aplicações Mobile com IONIC | Gasolina ou Álcool
 
 ### **HTML 5 - Projeto UNES Universidade:**
 
-Página institucional de uma universidade fictícia, contruida a partir de HTML5 puro, utilizando tabelas para a formatação.
+Página institucional de uma universidade fictícia contruida a partir de HTML5 puro utilizando tabelas para a formatação.
 
 Tecnologias utilizadas: HTML 5
 
