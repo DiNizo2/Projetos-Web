@@ -29,6 +29,16 @@ Introdução ao WordPress | Projeto 10 minutos exercícios
 SASS | ----
 Criando aplicações Mobile com IONIC | Gasolina ou Álcool
 
+***
+
+### **Projeto UNES Universidade:**
+
+Página institucional de uma universidade fictícia, contruida a partir de HTML5 puro, utilizando tabelas para a formatação.
+
+**Veja no repositório:** 
+
+**Resultado final:** 
+
 
 
 
