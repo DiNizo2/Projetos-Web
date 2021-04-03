@@ -43,6 +43,14 @@ Página institucional de uma universidade fictícia, contruida a partir de HTML5
 
 ### **Projeto Anna Bella:**
 
+Página web pessoal da ma modelo "Anna Bella". 
+Tecnologias utilizadas: CSS3, HTML 5
+
+**Veja no repositório:** [código](//github.com/DiNizo/Projetos-Web/tree/main/Unes)
+
+**Resultado final:** [site](https://dinizo2.github.io/Anna/index.html)
+
+
 
 
 
