@@ -46,7 +46,7 @@ Tecnologias utilizadas: HTML 5
 ### **CSS3 - Projeto Anna Bella:**
 
 
-Página web pessoal da ma modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato. Para construir este site, foram utilizados Html5 e CSS3.
+Página web pessoal da modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato. Para construir este site, foram utilizados Html5 e CSS3.
 
 Tecnologias utilizadas: CSS3, HTML 5
 
