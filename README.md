@@ -62,7 +62,7 @@ Blog de tecnologia com links personalizados e abas centrais e laterais para a ex
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Anna%20Bella)
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/TecBlog)
 
 **Resultado final:** [site](https://dinizo2.github.io/TecBlog/index.html)
 
