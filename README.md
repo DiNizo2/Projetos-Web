@@ -31,7 +31,7 @@ Criando aplicações Mobile com IONIC | Gasolina ou Álcool
 
 ***
 
-### **HTML 5 - Projeto UNES Universidade:**
+### **HTML 5 - :mortar_board: Projeto UNES Universidade:**
 
 Página institucional de uma universidade fictícia contruida a partir de HTML5 puro utilizando tabelas para a formatação.
 
@@ -43,7 +43,7 @@ Tecnologias utilizadas: HTML 5
 
 ***
 
-### **CSS3 - Projeto Anna Bella:**
+### **CSS3 - :camera_flash: Projeto Anna Bella:**
 
 
 Página web pessoal da modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato. Para construir este site, foram utilizados HTML5 e CSS3.
@@ -56,7 +56,7 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 ***
 
-### **CSS3	- TecBlog:**
+### **CSS3	- :computer: TecBlog:**
 
 Blog de tecnologia com links personalizados e abas centrais e laterais para a exibição de notícias. Construido a partir de recursos mais avançados de CSS3 como elementos flutuantes, seletores e estilos personalisáveis, o Blog possui apenas três links funcionais que se encontram na barra principal, sendo eles: Home, Jogos e Celulares.
 
