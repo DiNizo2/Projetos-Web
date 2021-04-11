@@ -58,7 +58,7 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 ### **CSS3	- TecBlog:**
 
-Blog de tecnologia com links personalizados e abas centrais e laterais para a exibição de notícias. Contruido a partir de recursos mais avançados de CSS3 como elementos flutuantes e estilos personalisáveis, o Blog possui apenas três links funcionais que se encontram na barra principal, sendo eles: Home, Jogos e Celulares.
+Blog de tecnologia com links personalizados e abas centrais e laterais para a exibição de notícias. Construido a partir de recursos mais avançados de CSS3 como elementos flutuantes e estilos personalisáveis, o Blog possui apenas três links funcionais que se encontram na barra principal, sendo eles: Home, Jogos e Celulares.
 
 Tecnologias utilizadas: CSS3, HTML 5
 
