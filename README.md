@@ -68,7 +68,7 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 ***
 
-### **CSS3 Intermediário & avançado - Notícias da Cidade**
+### **CSS3 Intermediário & avançado - :newspaper: Notícias da Cidade**
 
 Botando em prática recursos mais avançados de CSS3, este site simula um portal de notícias. Poussue 3 links funcionais em sua barra de navegação principal (Home, Brasil, Internacional), sendo esta customozada, indicando em qual página o usuário está e alternando cores ao passar do mouse. O conteúdo principal embora permaneça o mesmo, tem seu tamanho alternado dependo da página acessada.
 
