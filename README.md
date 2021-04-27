@@ -76,10 +76,19 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Not%C3%ADcias%20Cidade)
 
-**Resultado final:** [site](https://dinizo2.github.io/Noticias/index.html
-)
+**Resultado final:** [site](https://dinizo2.github.io/Noticias/index.html)
 
+***
 
+### **CSS3 Intermediário & avançado - Chalé Hotel**
+
+Protótipo de site de hotelaria. O foco deste projeto é a execução de layouts liquidos e a prática das posições(absolute, relative e static) em uma página web.
+
+Tecnologias utilizadas: CSS3, HTML 5
+
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Not%C3%ADcias%20Cidade)
+
+**Resultado final:** [site](https://dinizo2.github.io/Chal-/)
 
 
 
