@@ -1,0 +1,200 @@
+/* SITE GERAL */
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: Helvetica, "Trebuchet MS", sans-serif;
+	background: white url(imagens/bg.png);
+}
+
+p {
+	font-size: 1em;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+#principal {
+	margin: 0 auto;
+	min-width: 740px;
+	max-width: 1180px;
+	background: url(imagens/bg-container.png) top center repeat-y;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+/* Area de navegação */
+
+#relative {
+	margin-top: 15px;
+	position: relative;
+	background: #dbcd87;
+	height: 15.4em;
+	min-height: 250px;
+}
+
+#esquerda {
+	background: url(imagens/topo-imagem-principal.png) no-repeat top left;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 250px;
+	z-index: 1;
+}
+
+#direita {
+	background: url(imagens/topo-imagem-lateral.png);
+	width: 450px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 250px;
+	z-index: 2;
+}
+
+#esquerda h1 a {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	z-index: 5;
+	background: url(imagens/logo.png) no-repeat;
+	width: 151px;
+	height: 66px;
+	text-indent: -9000px;
+}
+
+#direita2 {
+	height: 248px;
+	width: 358px;
+	margin-left: 90px;
+	line-height: 30px;
+	font-size: 0.7em;	
+}
+
+#conteudo-direita2 {
+	border-top: 1px solid #674A01;
+	border-bottom: 1px solid #674A01;
+	margin-top: 15px;
+}
+
+#span1 {
+	float: left;
+	text-transform: capitalize;
+	color: #674A01;
+	margin: 3px;
+	line-height: 1.7em;
+}
+
+#span2 {
+	float: right;
+	background: #674A01;
+	width: 98px;
+	text-align: center;
+	margin: 3px;
+	line-height: 1.7em;
+}
+
+#span2 a {
+	color: white;
+}
+
+#foto {
+	float: right;
+	background: url(imagens/depoimento.png);
+	width: 226px;
+	height: 164px;
+	margin-top: 15px;
+	text-indent: 2000px;
+}
+
+#lista {
+	margin-top: 15px;
+	width: 129px;
+}
+
+#lista ul li {
+	list-style: none;
+}
+
+#lista ul li a {
+	color: #674A01;
+	padding: 5px;
+}
+
+#lista ul li a:hover {
+	background: #B18904;
+	color: white;
+}
+
+/* PARTE INFERIOR DO SITE */
+
+
+#texto {
+	float: left;
+	width: 50%;
+	background: url(../imagens/bg-area-principal.png) top left repeat-x;
+	padding: 15px 0px;
+}
+
+#links {
+	float: right;
+	width: 50%;
+	background: url(../imagens/bg-area-lateral.png) top left repeat-x;
+	padding: 20px 0px;
+} 
+
+#texto, #links h4 {
+	color: #674A01;
+}
+
+.classe {
+	margin: 0 auto;
+	width: 90%;
+}
+
+/*rodape*/
+#rodape {
+	clear: both;
+	color: #674A01;
+	text-align: center;
+	background: white;
+}
+
+#opcoes li {
+	padding: 8px;
+	border-bottom: 1px solid #f3efcb;
+	height: 6em;
+}
+
+#opcoes li a img {
+	float: left;
+	margin-right: 8px;
+}
+
+#opcoes li a p {
+	color: #000;
+	font-size: 0.8em;
+}
+
+#opcoes li a h3 {
+	font-size: 1em;
+	color: #615b2d;
+	padding: 5px 0;
+	background: url(../imagens/ornamento.png) no-repeat center right;
+}
+
+#opcoes li:hover {
+	background: #f6f3d6;
+	cursor: pointer;
+}
+
+#opcoes li a {
+	color: black;
+}
