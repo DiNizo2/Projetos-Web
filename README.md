@@ -80,7 +80,7 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 ***
 
-### **CSS3 Intermediário & avançado - Chalé Hotel**
+### **CSS3 Intermediário & avançado - :hotel: Chalé Hotel**
 
 Protótipo de site de hotelaria. O foco deste projeto é a execução de layouts liquidos e a prática das posições(absolute, relative e static) em uma página web.
 
