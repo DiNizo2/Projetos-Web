@@ -86,7 +86,7 @@ Protótipo de site de hotelaria. O foco deste projeto é a execução de layouts
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Not%C3%ADcias%20Cidade)
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Chal%C3%A9-Hotel)
 
 **Resultado final:** [site](https://dinizo2.github.io/Chal-/)
 
