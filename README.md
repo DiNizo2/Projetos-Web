@@ -90,8 +90,15 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 **Resultado final:** [site](https://dinizo2.github.io/Chal-/)
 
+### **HTML5 e CSS3 - Recursos especiais - :earth_americas: Museu Nacional**
 
+Ultimo projeto da sessão HTML5 e CSS3.
+Site do "Museu Nacional" construido a partir de recursos especiais CSS e novas tags HTML como header, nav, section, article, asiede e footer. Foram implementados html5shiv e normalize css para melhor compatibilidade com browsers em versões mais antigas.
+Localização via maps e exibição de vídeo também foram novos recursos aplicados para este projeto.
 
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Chal%C3%A9-Hotel)
+
+**Resultado final:** [site](https://dinizo2.github.io/Chal-/)
 
 
 
