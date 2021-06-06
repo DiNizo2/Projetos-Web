@@ -90,6 +90,8 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 **Resultado final:** [site](https://dinizo2.github.io/Chal-/)
 
+***
+
 ### **HTML5 e CSS3 - Recursos especiais - :earth_americas: Museu Nacional**
 
 Ultimo projeto da sessão HTML5 e CSS3.
