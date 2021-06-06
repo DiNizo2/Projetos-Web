@@ -96,7 +96,7 @@ Ultimo projeto da sessão HTML5 e CSS3.
 Site do "Museu Nacional" construido a partir de recursos especiais CSS e novas tags HTML como header, nav, section, article, asiede e footer. Foram implementados html5shiv e normalize css para melhor compatibilidade com browsers em versões mais antigas.
 Localização via maps e exibição de vídeo também foram novos recursos aplicados para este projeto.
 
-**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Chal%C3%A9-Hotel)
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
 **Resultado final:** [site](https://dinizo2.github.io/Chal-/)
 
