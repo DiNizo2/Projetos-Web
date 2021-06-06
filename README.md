@@ -74,7 +74,7 @@ Botando em prática recursos mais avançados de CSS3, este site simula um portal
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Not%C3%ADcias%20Cidade)
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
 **Resultado final:** [site](https://dinizo2.github.io/Noticias/index.html)
 
