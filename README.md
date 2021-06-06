@@ -100,7 +100,7 @@ Localização via maps e exibição de vídeo também foram novos recursos aplic
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
-**Resultado final:** [site](https://dinizo2.github.io/Chal-/)
+**Resultado final:** [site](https://dinizo2.github.io/Museus_Nacional/)
 
 
 
