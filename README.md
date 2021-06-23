@@ -66,6 +66,8 @@ Blog de tecnologia com links personalizados e abas centrais e laterais para a ex
 
 Tecnologias utilizadas: CSS3, HTML 5
 
+<a href="https://dinizo2.github.io/TecBlog/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169637-ef772580-d44f-11eb-89f5-b782925d93ff.png" width="400" height="400"> </a>
+
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/TecBlog)
 
 **Resultado final:** [site](https://dinizo2.github.io/TecBlog/index.html)
