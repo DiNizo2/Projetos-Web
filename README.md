@@ -80,6 +80,8 @@ Botando em prática recursos mais avançados de CSS3, este site simula um portal
 
 Tecnologias utilizadas: CSS3, HTML 5
 
+<a href="https://dinizo2.github.io/Noticias/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169964-5399e980-d450-11eb-96eb-12d10ba2d45c.png" width="400" height="400"> </a>
+
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
 **Resultado final:** [site](https://dinizo2.github.io/Noticias/index.html)
@@ -91,6 +93,8 @@ Tecnologias utilizadas: CSS3, HTML 5
 Protótipo de site de hotelaria. O foco deste projeto é a execução de layouts liquidos e a prática das posições(absolute, relative e static) em uma página web.
 
 Tecnologias utilizadas: CSS3, HTML 5
+
+<a href="https://dinizo2.github.io/Chal-/"> <img src="https://user-images.githubusercontent.com/78175532/123170405-dfac1100-d450-11eb-83c9-19a32cb27f49.png" width="380" height="380"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Chal%C3%A9-Hotel)
 
@@ -104,9 +108,12 @@ Ultimo projeto da sessão HTML5 e CSS3.
 Site do "Museu Nacional" construido a partir de recursos especiais CSS e novas tags HTML como header, nav, section, article, asiede e footer. Foram implementados html5shiv e normalize css para melhor compatibilidade com browsers em versões mais antigas.
 Localização via maps e exibição de vídeo também foram novos recursos aplicados para este projeto.
 
+<a href="https://dinizo2.github.io/Museus_Nacional/"> <img src="https://user-images.githubusercontent.com/78175532/123170857-67921b00-d451-11eb-8fed-de5833906ff1.png" width="400" height="400"> </a>
+
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
 **Resultado final:** [site](https://dinizo2.github.io/Museus_Nacional/)
+
 
 
 
