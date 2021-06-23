@@ -37,7 +37,7 @@ Página institucional de uma universidade fictícia construida a partir de HTML5
 
 Tecnologias utilizadas: HTML 5
 
-<a href="https://dinizo2.github.io/Unes/"> <img src="https://user-images.githubusercontent.com/78175532/123162327-dc138c80-d446-11eb-840e-f5c0593748ce.png" width="400" height="400"> </a>
+<a href="https://dinizo2.github.io/Unes/"> <img src="https://user-images.githubusercontent.com/78175532/123162327-dc138c80-d446-11eb-840e-f5c0593748ce.png" width="500" height="400"> </a>
 
 **Veja no repositório:** [código](//github.com/DiNizo/Projetos-Web/tree/main/Unes)
 
@@ -52,7 +52,7 @@ Página web pessoal da modelo "Anna Bella". O site possui 4 páginas, sendo elas
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-<a href="https://dinizo2.github.io/Anna/campanhas.html"> <img src="https://user-images.githubusercontent.com/78175532/123163398-103b7d00-d448-11eb-86bb-0093f646716d.png" width="400" height="400"> </a>
+<a href="https://dinizo2.github.io/Anna/campanhas.html"> <img src="https://user-images.githubusercontent.com/78175532/123163398-103b7d00-d448-11eb-86bb-0093f646716d.png" width="500" height="400"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Anna%20Bella)
 
@@ -66,7 +66,7 @@ Blog de tecnologia com links personalizados e abas centrais e laterais para a ex
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-<a href="https://dinizo2.github.io/TecBlog/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169637-ef772580-d44f-11eb-89f5-b782925d93ff.png" width="400" height="400"> </a>
+<a href="https://dinizo2.github.io/TecBlog/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169637-ef772580-d44f-11eb-89f5-b782925d93ff.png" width="500" height="400"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/TecBlog)
 
@@ -80,7 +80,7 @@ Botando em prática recursos mais avançados de CSS3, este site simula um portal
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-<a href="https://dinizo2.github.io/Noticias/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169964-5399e980-d450-11eb-96eb-12d10ba2d45c.png" width="400" height="400"> </a>
+<a href="https://dinizo2.github.io/Noticias/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169964-5399e980-d450-11eb-96eb-12d10ba2d45c.png" width="500" height="400"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
@@ -94,7 +94,7 @@ Protótipo de site de hotelaria. O foco deste projeto é a execução de layouts
 
 Tecnologias utilizadas: CSS3, HTML 5
 
-<a href="https://dinizo2.github.io/Chal-/"> <img src="https://user-images.githubusercontent.com/78175532/123170405-dfac1100-d450-11eb-83c9-19a32cb27f49.png" width="380" height="380"> </a>
+<a href="https://dinizo2.github.io/Chal-/"> <img src="https://user-images.githubusercontent.com/78175532/123170405-dfac1100-d450-11eb-83c9-19a32cb27f49.png" width="500" height="400"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Chal%C3%A9-Hotel)
 
@@ -108,7 +108,7 @@ Ultimo projeto da sessão HTML5 e CSS3.
 Site do "Museu Nacional" construido a partir de recursos especiais CSS e novas tags HTML como header, nav, section, article, asiede e footer. Foram implementados html5shiv e normalize css para melhor compatibilidade com browsers em versões mais antigas.
 Localização via maps e exibição de vídeo também foram novos recursos aplicados para este projeto.
 
-<a href="https://dinizo2.github.io/Museus_Nacional/"> <img src="https://user-images.githubusercontent.com/78175532/123170857-67921b00-d451-11eb-8fed-de5833906ff1.png" width="400" height="400"> </a>
+<a href="https://dinizo2.github.io/Museus_Nacional/"> <img src="https://user-images.githubusercontent.com/78175532/123170857-67921b00-d451-11eb-8fed-de5833906ff1.png" width="500" height="400"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
