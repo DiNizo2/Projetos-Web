@@ -37,7 +37,7 @@ Página institucional de uma universidade fictícia construida a partir de HTML5
 
 Tecnologias utilizadas: HTML 5
 
-<a href="https://dinizo2.github.io/Unes/"> <img src="https://user-images.githubusercontent.com/78175532/123162327-dc138c80-d446-11eb-840e-f5c0593748ce.png" width="200" height="200"> </a>
+<a href="https://dinizo2.github.io/Unes/"> <img src="https://user-images.githubusercontent.com/78175532/123162327-dc138c80-d446-11eb-840e-f5c0593748ce.png" width="400" height="400"> </a>
 
 **Veja no repositório:** [código](//github.com/DiNizo/Projetos-Web/tree/main/Unes)
 
@@ -51,6 +51,8 @@ Tecnologias utilizadas: HTML 5
 Página web pessoal da modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato. Para construir este site, foram utilizados HTML5 e CSS3.
 
 Tecnologias utilizadas: CSS3, HTML 5
+
+<a href="https://dinizo2.github.io/Anna/campanhas.html"> <img src="https://user-images.githubusercontent.com/78175532/123163398-103b7d00-d448-11eb-86bb-0093f646716d.png" width="400" height="400"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Anna%20Bella)
 
