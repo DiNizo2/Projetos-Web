@@ -122,7 +122,9 @@ Localização via maps e exibição de vídeo também foram novos recursos aplic
 
 Tecnologias utilizadas: CSS3, HTML5, BOOTSTRAP, JS
 
-Primeiro projeto da sessão JS. Apresenta as funções de soma, divisão, mutiplicação, subtração, ponto flutuante e clear.
+Primeiro projeto da sessão JS. Esta calculadora funcional criada a paritr de scripts JS apresenta as seguintes funções: soma, divisão, mutiplicação, subtração, ponto flutuante e clear.
+
+<a href="https://dinizo2.github.io/calculadoraJS/"> <img src="https://user-images.githubusercontent.com/78175532/123170857-67921b00-d451-11eb-8fed-de5833906ff1.png" width="500" height="400"> </a>
 
 **Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
 
