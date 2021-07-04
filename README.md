@@ -35,7 +35,7 @@ Criando aplicações Mobile com IONIC | Gasolina ou Álcool
 
 Página institucional de uma universidade fictícia construida a partir de HTML5 puro utilizando tabelas para a formatação.
 
-Tecnologias utilizadas: HTML 5
+Tecnologias utilizadas: HTML5
 
 <a href="https://dinizo2.github.io/Unes/"> <img src="https://user-images.githubusercontent.com/78175532/123162327-dc138c80-d446-11eb-840e-f5c0593748ce.png" width="500" height="400"> </a>
 
@@ -50,7 +50,7 @@ Tecnologias utilizadas: HTML 5
 
 Página web pessoal da modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato. Para construir este site, foram utilizados HTML5 e CSS3.
 
-Tecnologias utilizadas: CSS3, HTML 5
+Tecnologias utilizadas: CSS3, HTML5
 
 <a href="https://dinizo2.github.io/Anna/campanhas.html"> <img src="https://user-images.githubusercontent.com/78175532/123163398-103b7d00-d448-11eb-86bb-0093f646716d.png" width="500" height="400"> </a>
 
@@ -64,7 +64,7 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 Blog de tecnologia com links personalizados e abas centrais e laterais para a exibição de notícias. Construido a partir de recursos mais avançados de CSS3 como elementos flutuantes, seletores e estilos personalisáveis, o Blog possui apenas três links funcionais que se encontram na barra principal, sendo eles: Home, Jogos e Celulares.
 
-Tecnologias utilizadas: CSS3, HTML 5
+Tecnologias utilizadas: CSS3, HTML5
 
 <a href="https://dinizo2.github.io/TecBlog/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169637-ef772580-d44f-11eb-89f5-b782925d93ff.png" width="500" height="400"> </a>
 
@@ -78,7 +78,7 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 Botando em prática recursos mais avançados de CSS3, este site simula um portal de notícias. Poussue 3 links funcionais em sua barra de navegação principal (Home, Brasil, Internacional), sendo esta customozada, indicando em qual página o usuário está e alternando cores ao passar do mouse. O conteúdo principal embora permaneça o mesmo, tem seu tamanho alternado dependo da página acessada.
 
-Tecnologias utilizadas: CSS3, HTML 5
+Tecnologias utilizadas: CSS3, HTML5
 
 <a href="https://dinizo2.github.io/Noticias/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169964-5399e980-d450-11eb-96eb-12d10ba2d45c.png" width="500" height="400"> </a>
 
@@ -92,7 +92,7 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 Protótipo de site de hotelaria. O foco deste projeto é a execução de layouts liquidos e a prática das posições(absolute, relative e static) em uma página web.
 
-Tecnologias utilizadas: CSS3, HTML 5
+Tecnologias utilizadas: CSS3, HTML5
 
 <a href="https://dinizo2.github.io/Chal-/"> <img src="https://user-images.githubusercontent.com/78175532/123170405-dfac1100-d450-11eb-83c9-19a32cb27f49.png" width="500" height="400"> </a>
 
@@ -104,6 +104,8 @@ Tecnologias utilizadas: CSS3, HTML 5
 
 ### **HTML5 e CSS3 - Recursos especiais - :earth_americas: Museu Nacional**
 
+Tecnologias utilizadas: CSS3, HTML 5
+
 Ultimo projeto da sessão HTML5 e CSS3.
 Site do "Museu Nacional" construido a partir de recursos especiais CSS e novas tags HTML como header, nav, section, article, asiede e footer. Foram implementados html5shiv e normalize css para melhor compatibilidade com browsers em versões mais antigas.
 Localização via maps e exibição de vídeo também foram novos recursos aplicados para este projeto.
@@ -114,8 +116,17 @@ Localização via maps e exibição de vídeo também foram novos recursos aplic
 
 **Resultado final:** [site](https://dinizo2.github.io/Museus_Nacional/)
 
+***
 
+### **JavaScript - :earth_americas: Calculadora**
 
+Tecnologias utilizadas: CSS3, HTML5, BOOTSTRAP, JS
+
+Primeiro projeto da sessão JS. Apresenta as funções de soma, divisão, mutiplicação, subtração, ponto flutuante e clear.
+
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
+
+**Resultado final:** [site](https://dinizo2.github.io/calculadoraJS/)
 
 
 
