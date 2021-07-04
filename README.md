@@ -118,15 +118,15 @@ Localização via maps e exibição de vídeo também foram novos recursos aplic
 
 ***
 
-### **JavaScript - :earth_americas: Calculadora**
+### **JavaScript - :abacus: Calculadora**
 
 Tecnologias utilizadas: CSS3, HTML5, BOOTSTRAP, JS
 
 Primeiro projeto da sessão JS. Esta calculadora funcional criada a paritr de scripts JS apresenta as seguintes funções: soma, divisão, mutiplicação, subtração, ponto flutuante e clear.
 
-<a href="https://dinizo2.github.io/calculadoraJS/"> <img src="https://user-images.githubusercontent.com/78175532/123170857-67921b00-d451-11eb-8fed-de5833906ff1.png" width="500" height="400"> </a>
+<a href="https://dinizo2.github.io/calculadoraJS/"> <img src="https://user-images.githubusercontent.com/78175532/124398752-c4ad8c80-dced-11eb-9ac9-ad6b79d199dd.png" width="500" height="400"> </a>
 
-**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/calculadora)
 
 **Resultado final:** [site](https://dinizo2.github.io/calculadoraJS/)
 
