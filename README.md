@@ -13,7 +13,7 @@ CSS3 | [Anna Bella](https://github.com/DiNizo/Projetos-Web#css3---camera_flash-p
 CSS3 Intermediário & avançado | [Notícias da Cidade](https://github.com/DiNizo/Projetos-Web/blob/main/README.md#css3-intermedi%C3%A1rio--avan%C3%A7ado---newspaper-not%C3%ADcias-da-cidade); [Chalé Hotel](https://github.com/DiNizo/Projetos-Web/blob/main/README.md#css3-intermedi%C3%A1rio--avan%C3%A7ado---hotel-chal%C3%A9-hotel)
 HTML5 e CSS3 - Recursos especiais | [Museu Nacional](https://github.com/DiNizo/Projetos-Web/blob/main/README.md#html5-e-css3---recursos-especiais---earth_americas-museu-nacional)
 Bootstrap 4 & Design responsivo | Finans; Spotify Clone
-JavaScript | App Calculadora; App Game Mata Mosquito
+JavaScript | [App Calculadora](https://github.com/DiNizo/Projetos-Web/blob/main/README.md#javascript---abacus-calculadora); App Game Mata Mosquito
 JavaScript Moderno e Orientação a Objetos | App Orçamento Pessoal
 PHP 7 | App Help Desk
 PHP 7 e Orientação a Objetos | App Send Mail
