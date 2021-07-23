@@ -82,7 +82,7 @@ Tecnologias utilizadas: CSS3, HTML5
 
 <a href="https://dinizo2.github.io/Noticias/index.html"> <img src="https://user-images.githubusercontent.com/78175532/123169964-5399e980-d450-11eb-96eb-12d10ba2d45c.png" width="500" height="400"> </a>
 
-**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Museu%20Nacional)
+**Veja no repositório:** [código](https://github.com/DiNizo/Projetos-Web/tree/main/Not%C3%ADcias%20Cidade)
 
 **Resultado final:** [site](https://dinizo2.github.io/Noticias/index.html)
 
