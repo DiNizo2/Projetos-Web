@@ -48,7 +48,7 @@ Tecnologias utilizadas: HTML5
 ### **CSS3 - :camera_flash: Projeto Anna Bella:**
 
 
-Página web pessoal da modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato. Para construir este site, foram utilizados HTML5 e CSS3.
+Página web pessoal da modelo "Anna Bella". O site possui 4 páginas, sendo elas respectivamente, Home, Biografia, Campanhas Publicitárias e Contato.
 
 Tecnologias utilizadas: CSS3, HTML5
 
@@ -62,7 +62,7 @@ Tecnologias utilizadas: CSS3, HTML5
 
 ### **CSS3	- :computer: TecBlog:**
 
-Blog de tecnologia com links personalizados e abas centrais e laterais para a exibição de notícias. Construido a partir de recursos mais avançados de CSS3 como elementos flutuantes, seletores e estilos personalisáveis, o Blog possui apenas três links funcionais que se encontram na barra principal, sendo eles: Home, Jogos e Celulares.
+Blog de tecnologia com links personalizados e abas centrais e laterais para a exibição de notícias. Construido a partir de recursos avançados de CSS3 como elementos flutuantes, seletores e estilos personalisáveis, o Blog possui três links funcionais que se encontram na barra principal, sendo eles: Home, Jogos e Celulares.
 
 Tecnologias utilizadas: CSS3, HTML5
 
@@ -76,7 +76,7 @@ Tecnologias utilizadas: CSS3, HTML5
 
 ### **CSS3 Intermediário & avançado - :newspaper: Notícias da Cidade**
 
-Botando em prática recursos mais avançados de CSS3, este site simula um portal de notícias. Poussue 3 links funcionais em sua barra de navegação principal (Home, Brasil, Internacional), sendo esta customozada, indicando em qual página o usuário está e alternando cores ao passar do mouse. O conteúdo principal embora permaneça o mesmo, tem seu tamanho alternado dependo da página acessada.
+Botando em prática recursos avançados de CSS3, este site simula um portal de notícias. Poussue 3 links funcionais em sua barra de navegação principal (Home, Brasil, Internacional), sendo esta customizada, indicando em qual página o usuário está e alternando cores ao passar do mouse. O conteúdo principal embora permaneça o mesmo, tem seu tamanho alternado dependo da página acessada.
 
 Tecnologias utilizadas: CSS3, HTML5
 
@@ -107,7 +107,7 @@ Tecnologias utilizadas: CSS3, HTML5
 Tecnologias utilizadas: CSS3, HTML 5
 
 Ultimo projeto da sessão HTML5 e CSS3.
-Site do "Museu Nacional" construido a partir de recursos especiais CSS e novas tags HTML como header, nav, section, article, asiede e footer. Foram implementados html5shiv e normalize css para melhor compatibilidade com browsers em versões mais antigas.
+Site do "Museu Nacional" construido a partir de recursos especiais CSS3 e novas tags HTML. Implementado html5shiv e normalize css para melhor compatibilidade com browsers em versões antigas.
 Localização via maps e exibição de vídeo também foram novos recursos aplicados para este projeto.
 
 <a href="https://dinizo2.github.io/Museus_Nacional/"> <img src="https://user-images.githubusercontent.com/78175532/123170857-67921b00-d451-11eb-8fed-de5833906ff1.png" width="500" height="400"> </a>
@@ -122,7 +122,7 @@ Localização via maps e exibição de vídeo também foram novos recursos aplic
 
 Tecnologias utilizadas: CSS3, HTML5, BOOTSTRAP, JS
 
-Primeiro projeto da sessão JS. Esta calculadora funcional criada a paritr de scripts JS apresenta as seguintes funções: soma, divisão, mutiplicação, subtração, ponto flutuante e clear.
+Primeiro projeto da sessão JS. Esta calculadora funcional criada a paritr de scripts JS possui as funções de soma, divisão, mutiplicação, subtração, ponto flutuante e clear.
 
 <a href="https://dinizo2.github.io/calculadoraJS/"> <img src="https://user-images.githubusercontent.com/78175532/124398752-c4ad8c80-dced-11eb-9ac9-ad6b79d199dd.png" width="500" height="400"> </a>
 
