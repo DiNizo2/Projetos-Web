@@ -39,7 +39,7 @@ Tecnologias utilizadas: HTML5
 
 <a href="https://dinizo2.github.io/Unes/"> <img src="https://user-images.githubusercontent.com/78175532/123162327-dc138c80-d446-11eb-840e-f5c0593748ce.png" width="500" height="400"> </a>
 
-**Veja no repositório:** <a href="//github.com/DiNizo/Projetos-Web/tree/main/Unes" target="_blank"> código </a>
+**Veja no repositório:** [código](//github.com/DiNizo/Projetos-Web/tree/main/Unes)
 
 **Resultado final:** [site]( https://dinizo2.github.io/Unes/)
 
